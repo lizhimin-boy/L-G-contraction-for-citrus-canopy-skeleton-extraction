@@ -10,12 +10,14 @@ A citrus canopy skeleton extraction tool based on learning-guided L-G contractio
 
 ### Main Interface
 
-![Uploading 软件主页图1.png…]()
+<img width="1442" height="757" alt="软件主页图1" src="https://github.com/user-attachments/assets/b613664a-46a5-4b09-9528-b96b09dabc10" />
+
 
 
 ### Skeleton Extraction Results
 
-![Uploading 测量角度1.png…]()
+<img width="1282" height="907" alt="测量角度1" src="https://github.com/user-attachments/assets/c74a45b2-277a-4a68-a755-4d4c0fbb6cab" />
+
 
 ## Overview
 
