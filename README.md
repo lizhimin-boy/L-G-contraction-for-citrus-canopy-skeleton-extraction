@@ -6,6 +6,16 @@ A citrus canopy skeleton extraction tool based on learning-guided L-G contractio
 [Download v1.1.0](https://github.com/lizhimin-boy/L-G-contraction-for-citrus-canopy-skeleton-extraction/releases/tag/v1.1.0) · [Report an Issue](https://github.com/lizhimin-boy/L-G-contraction-for-citrus-canopy-skeleton-extraction/issues)
 
 ---
+## Software Preview
+
+### Main Interface
+
+![Uploading 软件主页图1.png…]()
+
+
+### Skeleton Extraction Results
+
+![Uploading 测量角度1.png…]()
 
 ## Overview
 
